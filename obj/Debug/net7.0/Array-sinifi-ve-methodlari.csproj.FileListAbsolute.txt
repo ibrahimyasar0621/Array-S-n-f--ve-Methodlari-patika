@@ -1,0 +1,14 @@
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\bin\Debug\net7.0\Array-sinifi-ve-methodlari.exe
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\bin\Debug\net7.0\Array-sinifi-ve-methodlari.deps.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\bin\Debug\net7.0\Array-sinifi-ve-methodlari.runtimeconfig.json
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\bin\Debug\net7.0\Array-sinifi-ve-methodlari.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\bin\Debug\net7.0\Array-sinifi-ve-methodlari.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.AssemblyInfoInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.AssemblyInfo.cs
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\refint\Array-sinifi-ve-methodlari.dll
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.pdb
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\Array-sinifi-ve-methodlari.genruntimeconfig.cache
+C:\Users\ibrah\Desktop\ibrahim\pratikler\Array-sinifi-ve-methodlari\obj\Debug\net7.0\ref\Array-sinifi-ve-methodlari.dll
